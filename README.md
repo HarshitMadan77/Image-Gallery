@@ -22,13 +22,13 @@ Follow these steps to get the app running locally:
 
 Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v14 or above)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 
 ### Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/image-gallery.git
+   git clone https://github.com/HarshitMadan77/Image-Gallery.git
    cd image-gallery
    ```
 
@@ -91,7 +91,7 @@ image-gallery/
 │   ├── App.css
 │   ├── App.jsx
 │   ├── index.js
-│   └── ...
+│   └── index.css
 ├── .env
 ├── package.json
 └── README.md
@@ -137,5 +137,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ### Author
 
-Created by [Your Name](https://github.com/your-username). Feel free to reach out for any questions or contributions!
+Created by [Harshit Madan](https://github.com/HarshitMadan77). Feel free to reach out for any questions or contributions!
 
